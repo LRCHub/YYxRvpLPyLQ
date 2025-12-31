@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ダイアモンド クレバス",
+  "base_artist": "シェリル・ノーム starring May'n",
+  "createdAt": "2025-12-31T07:31:24.389543Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス〜展望公園にて",
+      "artist": "ランカ・リー＝中島愛、シェリル・ノーム starring May'n",
+      "has_synced": false,
+      "path": "select/01_ダイアモンド_クレバス〜展望公園にて_ランカ・リー=中島愛、シェリル・ノーム_starring_May'n.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス～展望公園にて",
+      "artist": "May'n",
+      "has_synced": false,
+      "path": "select/02_ダイアモンド_クレバス~展望公園にて_May'n.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diamond Crevasse [ダイアモンド クレバス]",
+      "artist": "Sheryl Nome starring May'n",
+      "has_synced": true,
+      "path": "select/03_Diamond_Crevasse_[ダイアモンド_クレバス]_Sheryl_Nome_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/04_ダイアモンド_クレバス_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス～Mikumo Ver.～",
+      "artist": "ワルキューレ/(美雲ΔJUNNA)",
+      "has_synced": true,
+      "path": "select/05_ダイアモンド_クレバス~Mikumo_Ver.~_ワルキューレ_(美雲ΔJUNNA).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス",
+      "artist": "May’n",
+      "has_synced": false,
+      "path": "select/06_ダイアモンド_クレバス_May’n.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス",
+      "artist": "シェリル・ノーム",
+      "has_synced": true,
+      "path": "select/07_ダイアモンド_クレバス_シェリル・ノーム.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス",
+      "artist": "シェリル・ノーム",
+      "has_synced": true,
+      "path": "select/08_ダイアモンド_クレバス_シェリル・ノーム.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス",
+      "artist": "シェリル・ノーム",
+      "has_synced": true,
+      "path": "select/09_ダイアモンド_クレバス_シェリル・ノーム.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/10_ダイアモンド_クレバス_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス [instrumental]",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/11_ダイアモンド_クレバス_[instrumental]_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/12_ダイアモンド_クレバス_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス 〜Mikumo Ver.〜",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/13_ダイアモンド_クレバス_〜Mikumo_Ver.〜_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス ~Mikumo Ver.~",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/14_ダイアモンド_クレバス_~Mikumo_Ver.~_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス(without Sheryl)",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/15_ダイアモンド_クレバス(without_Sheryl)_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/16_ダイアモンド_クレバス_May'n.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ダイアモンド クレバス ～Mikumo Ver.～",
+      "artist": "ワルキューレ (JUNNA, 鈴木みのり, 安野希世乃, 東山奈央, 西田望見)",
+      "has_synced": true,
+      "path": "select/17_ダイアモンド_クレバス_~Mikumo_Ver.~_ワルキューレ_(JUNNA,_鈴木みのり,_安野希世乃,_東山奈央,_西田望見).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダイアモンド クレバス",
+      "artist": "May'n",
+      "has_synced": false,
+      "path": "select/pl_01_ダイアモンド_クレバス_May'n.txt"
+    }
+  ]
+}
